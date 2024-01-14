@@ -1,0 +1,20 @@
+.anasayfa{
+    background-color: white;
+    width: 800px;
+    height: 1000px;
+    border: 2px solid black;
+    margin-left: 500px;
+    border-radius: 5px;
+    }
+    .kısır{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    margin-left: 140px;
+    margin-top: 60px;
+    }
+    .tarif{
+        font-size: 20px;
+       text-align: center;
+       margin-top: 70px;
+    }

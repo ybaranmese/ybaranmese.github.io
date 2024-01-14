@@ -1,0 +1,259 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+.menü{
+
+    border: 1px solid black;
+    height: 80px;
+    width: auto;
+    border-radius: 10px;
+    font-family: 'DM Serif Display', serif;
+}
+.uyegirisi{
+font-size: 19px;
+ float: right;   
+ margin-right: 30px;
+ margin-top: -50px;
+font-family: 'Times New Roman', Times, serif;
+text-decoration: none;
+color: black;
+font-family: 'DM Serif Display', serif;
+
+}
+.kayıtol{
+    font-size: 19px;
+     float: right;   
+     margin-right: 120px;
+
+    margin-top: -50px;
+    text-decoration: none;
+    color: black;
+    font-family: 'DM Serif Display', serif;
+
+    }
+    .hakkımızda{
+        font-size: 19px;
+         float: left;   
+         margin-left: 30px;
+        margin-top: 30px;
+        text-decoration: none;
+        color: black;
+        font-family: 'DM Serif Display', serif;
+
+        }
+        .sef{
+
+            font-family: 'DM Serif Display', serif;
+            font-style: italic;
+          margin-left: 800px
+        }
+.anasayfa{
+
+
+width: auto;
+height: 1600px;
+border-radius: 10px;
+}
+
+.mantı{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: -950px;
+    margin-top: 100px;
+    float: left;
+}
+
+
+.baklava{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: -360px;
+    margin-top: 100px;
+    float: left;
+}
+
+.kutu1{
+
+    width: auto;
+    height: 500px;
+    
+}
+.kutu2{
+
+    width: auto;
+    height: 500px;
+    border-top: 2px dotted black;
+}
+.mantıyazı{
+font-family: 'Times New Roman', Times, serif;
+margin-left: 200px ;
+font-size: 25px;
+float: left;
+margin-top: 410px;
+color: black;
+}
+.tarif{
+    font-family: 'Times New Roman', Times, serif;
+    
+    font-size: 25px;
+    float: left;
+    margin-top: 15px;
+    color: black; 
+    margin-left: 300px;
+     
+}
+.baklavayazi{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -240px ;
+    font-size: 25px;
+    float: left;
+    margin-top: 410px;
+    color: black;
+
+}
+.içliköfte{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px;
+    float: left;
+}
+.içliköfteyazı{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -230px ;
+    font-size: 25px;
+    float: left;
+    margin-top: 410px;
+    color: black;
+
+}
+.sarma{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-top: 100px;
+    float: left;
+}
+.sarmayazi{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -240px ;
+    font-size: 25px;
+    float: left;
+    margin-top: 410px;
+    color: black;
+
+}
+.börek{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px;
+    float: left;
+
+}
+.börekyazı{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -250px ;
+    font-size: 25px;
+    float: left;
+    margin-top: 410px;
+    color: black;
+
+}
+.künefe{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px;
+    float: left;
+}
+.künefeyazı{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -230px ;
+    font-size: 25px;
+    float: left;
+    margin-top: 410px;
+    color: black;
+}
+.kutu3{
+
+    width: auto;
+    height: 500px;
+    border-top: 2px dotted black;
+}
+.mercimek{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-top: 100px;
+    float: left;
+}
+.mercimekyazı{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -290px ;
+    font-size: 25px;
+    float: left;
+    margin-top: 410px;
+    color: black;
+}
+.russalatası{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px;
+    float: left;
+}
+.russalatasıyazı{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -260px ;
+    font-size: 25px;
+    float: left;
+    margin-top: 410px;
+    color: black;
+}
+.kısır{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 100px;
+    float: left;
+}
+.kısıryazı{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: -220px ;
+    font-size: 25px;
+    float: left;
+    margin-top: 410px;
+    color: black;
+}
+.kutu4{
+    width: auto;
+  height: 100px;
+    border-radius: 5px;
+
+}
+.harita{
+
+    margin-left: 30px;
+}
+.gmail{
+color: black;
+margin-left: 550px;
+float: left;
+margin-top: 40px;
+}
+.insta{
+    color: black;
+    margin-left: 300px;
+    float: left;
+    margin-top: 20px;
+}
